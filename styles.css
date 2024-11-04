@@ -1,0 +1,38 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: end;
+}
+
+.items-nav {
+    display: flex;
+    padding: 0 1rem;
+    align-items: center;
+}
+
+.item-nav {
+    padding: 0 .3rem;
+    font-size: medium;
+    font-weight: 500;
+}
+
+.item-account {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(24, 117, 136);
+    color: white;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+}
+
+.item-account h3 {
+    
+}
+
+
